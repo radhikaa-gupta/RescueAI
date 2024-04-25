@@ -17,21 +17,21 @@ This project aims to provide a quick and accurate assessment of disaster-affecte
 
 ## Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/radhikaa-gupta/RescueAI
 cd RescueAI/mapping-the-path-to-recovery
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Setup
 
 Obtain an API key for Google GenerativeAI and save it in a file named \`api_key.py\`:
 
-\`\`\`python
+```python
 # api_key.py
 
 api_key = "your_api_key_here"
-\`\`\`
+```
 
 ## Usage
 
