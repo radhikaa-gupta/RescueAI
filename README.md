@@ -1,4 +1,5 @@
 # Mapping the Path to Recovery: Assessing Disaster Damage from Above
+![image](https://github.com/radhikaa-gupta/RescueAI/assets/123308047/d5467a5c-ef01-4bb1-9e14-f3ece2f7edd4)
 
 ## Overview
 
