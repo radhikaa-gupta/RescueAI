@@ -16,11 +16,10 @@ This project aims to provide a quick and accurate assessment of disaster-affecte
 Here are some screenshots showcasing the features of the RescueAI application:
 
 <div align="center">
-  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/f9cab148-3924-44d0-a31a-74d9b020c4ce" width="400" style="margin-right: 10px;">
-  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="400" style="margin-left: 10px;">
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/f9cab148-3924-44d0-a31a-74d9b020c4ce" width="400" style="margin-right: 1px;">
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="400" style="margin-left: 1px;">
 </div>
----
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 1px;">
   <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="400">
 </div>
 
