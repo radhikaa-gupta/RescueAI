@@ -11,10 +11,15 @@ This project aims to provide a quick and accurate assessment of disaster-affecte
 - **Damage Assessment**: Analyze uploaded images to generate a comprehensive damage assessment report.
 - **Interactive Map**: Visualize affected areas and their severity on an interactive map.
 
+![Screenshot 2024-04-25 115137](https://github.com/radhikaa-gupta/RescueAI/assets/123308047/f9cab148-3924-44d0-a31a-74d9b020c4ce)
+![Screenshot 2024-04-25 115216](https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631)
+![Screenshot 2024-04-25 142015](https://github.com/radhikaa-gupta/RescueAI/assets/123308047/c1304df5-1d9b-4ac8-bc4b-b2054ad28a11)
+
+
 <p float="left">
-  <img src="https://github.com/radhikaa-gupta/RescueAI/raw/main/assets/123308047/797fd656-f581-4a83-999d-35f93028cbf1" width="200" />
-  <img src="https://github.com/radhikaa-gupta/RescueAI/raw/main/assets/123308047/d6b4013d-99a4-4c8d-952d-41a4e7200de2" width="200" /> 
-  <img src="https://github.com/radhikaa-gupta/RescueAI/raw/main/assets/123308047/599b72f2-412a-4425-94fe-96f728fac1aa" width="200" />
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/f9cab148-3924-44d0-a31a-74d9b020c4ce" width="200" />
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="200" /> 
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/c1304df5-1d9b-4ac8-bc4b-b2054ad28a11" width="200" />
 </p>
 
 
