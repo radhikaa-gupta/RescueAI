@@ -20,7 +20,7 @@ Here are some screenshots showcasing the features of the RescueAI application:
   <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="400" style="margin-left: 20px; border: 2px solid white;">
 </div>
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/234ad2ca-bf7f-4535-8870-f0f40bd54631" width="400" style="border: 2px solid white;">
+  <img src="https://github.com/radhikaa-gupta/RescueAI/assets/123308047/599b72f2-412a-4425-94fe-96f728fac1aa" width="400" style="border: 2px solid white;">
 </div>
 
 
